@@ -1,3 +1,12 @@
+# as-td
+
+Ansible Messenger — клиентская библиотека TDLib.
+
+> [!NOTE]
+> **Происхождение кода.** Форк [tdlib/td](https://github.com/tdlib/td), который сопровождает проект Ansible Messenger. Сведения об авторах и лицензиях приведены в исходной документации.
+
+## Документация исходного проекта
+
 # TDLib
 
 TDLib (Telegram Database library) is a cross-platform library for building [Telegram](https://telegram.org) clients. It can be easily used from almost any programming language.
